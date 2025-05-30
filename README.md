@@ -4,9 +4,8 @@
 
 - 🎓 &nbsp; 目前就读成信大
 - 💼 &nbsp; 励志成为一名维护网络安全的有为青年
-- 🌱 &nbsp; 没事爱打ctf，向✌们学习
+- 🌱 &nbsp; ctf weber，向大师傅们学习
 - 🔭 &nbsp; D0g3成员
-- ✍️ &nbsp; 努力深造中
   
 [![gaorenyusi's github stats](https://github-readme-stats.vercel.app/api?username=gaorenyusi)](https://github.com/anuraghazra/github-readme-stats)
 
